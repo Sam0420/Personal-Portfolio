@@ -61,8 +61,8 @@ $ npm start
 If you'd like to connect, feel free to reach out:
 
 - **Email:** samhashimi10@gmail.com
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sam-hashimi-222699231/)  
-- **GitHub:** [your-github-profile](https://github.com/Sam0420)  
+- **LinkedIn:** [Sam Hashimi](https://www.linkedin.com/in/sam-hashimi-222699231/)  
+- **GitHub:** [Sam Hashimi](https://github.com/Sam0420)  
 
 
 
