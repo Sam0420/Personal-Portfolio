@@ -35,7 +35,7 @@ From your command line, first clone the repository:
 
 ```bash
 # Clone the repository
-$ git clone git@github.com:Sam0420/Personal-Portfolio.git
+$ git clone https://github.com/Sam0420/Personal-Portfolio.git
 
 # Move into the repository
 $ cd Personal-Portfolio
@@ -60,9 +60,9 @@ $ npm start
 
 If you'd like to connect, feel free to reach out:
 
-- **Email:** your-email@example.com  
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [your-github-profile](https://github.com/your-username)  
+- **Email:** samhashimi10@gmail.com
+- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sam-hashimi-222699231/)  
+- **GitHub:** [your-github-profile](https://github.com/Sam0420)  
 
 
 
