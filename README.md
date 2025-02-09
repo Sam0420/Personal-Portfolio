@@ -65,4 +65,11 @@ If you'd like to connect, feel free to reach out:
 - **GitHub:** [Sam Hashimi](https://github.com/Sam0420)  
 
 
+# My Portfolio Website
 
+This project is based on [Simplefolio](https://github.com/zero-to-mastery/simplefolio) by **Jacobo Martínez**.  
+It has been modified to suit my personal preferences and needs.
+
+## License
+This project is licensed under the **MIT License**.  
+See the [`LICENSE`](LICENSE.md) file for details.
